@@ -8,7 +8,7 @@
 
 | № | Проект | Что показывает | Инструменты | Статус |
 |---|---|---|---|---|
-| 1 | [Ручное тестирование сайта (SauceDemo)](01-manual-testing-saucedemo) | Тест-план, 51 тест-кейс, чек-листы, баг-репорты | Markdown, Chrome DevTools | 🟡 В работе |
+| 1 | [Ручное тестирование сайта (SauceDemo)](01-manual-testing-saucedemo) | Тест-план, 51 тест-кейс, чек-листы, баг-репорты | Markdown, Chrome DevTools | 🟢 готово |
 | 2 | [API-тестирование](02-api-testing-postman) | Коллекция запросов, проверки, прогон через Newman | Postman, Newman, Swagger | ⚪ Запланировано |
 | 3 | [Автотесты на Python](03-python-pytest-autotests) | API- и UI-автотесты, Page Object, CI | Python, pytest, requests, Selenium/Playwright, GitHub Actions | 🟢 готово |
 | 4 | [Тестирование мобильного приложения](04-mobile-testing) | Тест-кейсы, баги, проверка на устройствах | Android Studio/эмулятор, adb | ⚪ Запланировано |
