@@ -70,7 +70,8 @@ pytest --tracing retain-on-failure   # трейс Playwright для упавши
 
 Результат прогона: 9 тестов, все пройдены.
 
-![Allure Overview](allure-overview.png)
+![Allure Overview](allure-overview.png) <img width="1919" height="814" alt="allure-overview" src="https://github.com/user-attachments/assets/0e262867-308b-4cff-8feb-294b93e8d184" />
+
 
 ## Планы
 
